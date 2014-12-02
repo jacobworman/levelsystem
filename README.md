@@ -1,5 +1,6 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jacobworman/levelsystem/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jacobworman/levelsystem/?branch=master)
-
+[![Code Coverage](https://scrutinizer-ci.com/g/jacobworman/levelsystem/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/jacobworman/levelsystem/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/jacobworman/levelsystem/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jacobworman/levelsystem/build-status/master)
 
 Level System
 ------------------
