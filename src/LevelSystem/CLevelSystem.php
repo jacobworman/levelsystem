@@ -6,7 +6,7 @@
  * Version: 1
  */
 
-namespace LevelSystem\LevelSystem;
+namespace Jacobworman\Levelsystem;
 
 class CLevelSystem{
 

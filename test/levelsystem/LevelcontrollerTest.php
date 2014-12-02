@@ -8,25 +8,20 @@
 
 namespace Jacobworman\Levelsystem;
 
-/**
- * A controller for users and admin related events.
- *
- */
-class TestlevelController extends \PHPUnit_Framework_TestCase
+class LevelcontrollerTest extends \PHPUnit_Framework_TestCase
 {
 
 
 
 
 
-    public function testAction()
-    {
-			
-			$X = 4;
-			$Y = 6;
-			$level = 5;
-
-            $users = new \Anax\LevelSystem\CLevelSystem($X, $Y, $level);
+   public function testSomethingRandom(){
+   
+   $X = 4;
+   $Y = 8;
+   $level = 4;
+   
+    $users = new \Jacobworman\Levelsystem\CLevelSystem($X, $Y, $level);
             if($users->currentlevel() == 1){
                 echo "YOU GAIN LEVEL";
 				return true;
@@ -35,11 +30,11 @@ class TestlevelController extends \PHPUnit_Framework_TestCase
 				return false;
             }else{
                 echo "You're still in current level.";
+				return false;
             }
-
-
-
-    }
+   
+   
+   }
 
 
 
