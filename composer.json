@@ -1,0 +1,22 @@
+
+{
+    "name": "jacobworman/levelsystem",    
+    "type": "library",
+    "description": "PHP class for generating level system",
+    "keywords": ["module", "uml", "library", "yuml", "mysql", "sqlite"],
+    "homepage": "https://github.com/jacobworman/levelsystem",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob Wörman",
+            "email": "jacobworman@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { "Jacobworman\\": "src/" }
+    }
+}
