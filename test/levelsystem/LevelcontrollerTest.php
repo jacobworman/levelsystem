@@ -6,7 +6,7 @@
  * Time: 2:56 PM
  */
 
-namespace Levelsystem\CLevelSystem;
+namespace Levelsystem\Levelsystem;
 
 class LevelcontrollerTest extends \PHPUnit_Framework_TestCase
 {
