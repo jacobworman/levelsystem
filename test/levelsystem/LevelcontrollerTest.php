@@ -6,7 +6,7 @@
  * Time: 2:56 PM
  */
 
-namespace Jacobworman\Levelsystem;
+namespace Levelsystem\CLevelSystem;
 
 class LevelcontrollerTest extends \PHPUnit_Framework_TestCase
 {
@@ -21,7 +21,7 @@ class LevelcontrollerTest extends \PHPUnit_Framework_TestCase
    $Y = 8;
    $level = 4;
    
-    $users = new \jacobworman\Levelsystem\CLevelSystem($X, $Y, $level);
+    $users = new \Levelsystem\Levelsystem\CLevelSystem($X, $Y, $level);
             if($users->currentlevel() == 1){
                 echo "YOU GAIN LEVEL";
 				return true;

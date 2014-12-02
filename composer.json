@@ -1,6 +1,6 @@
 
 {
-    "name": "jacobworman/levelsystem",    
+    "name": "levelsystem/levelsystem",    
     "type": "library",
     "description": "PHP class for generating level system",
     "keywords": ["module", "uml", "library", "yuml", "mysql", "sqlite"],
@@ -17,6 +17,6 @@
         "php": ">=5.4"
     },
     "autoload": {
-        "psr-4": { "Jacobworman\\": "src/" }
+        "psr-4": { "Levelsystem\\": "src/" }
     }
 }
