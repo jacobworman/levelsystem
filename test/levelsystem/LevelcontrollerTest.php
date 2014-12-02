@@ -21,7 +21,7 @@ class LevelcontrollerTest extends \PHPUnit_Framework_TestCase
    $Y = 8;
    $level = 4;
    
-    $users = new \Jacobworman\Levelsystem\CLevelSystem($X, $Y, $level);
+    $users = new \jacobworman\Levelsystem\CLevelSystem($X, $Y, $level);
             if($users->currentlevel() == 1){
                 echo "YOU GAIN LEVEL";
 				return true;
