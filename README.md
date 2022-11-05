@@ -2,7 +2,7 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/jacobworman/levelsystem/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/jacobworman/levelsystem/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/jacobworman/levelsystem/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jacobworman/levelsystem/build-status/master)
 
-Level System
+Game user level system
 ------------------
 
 This project is for college.
